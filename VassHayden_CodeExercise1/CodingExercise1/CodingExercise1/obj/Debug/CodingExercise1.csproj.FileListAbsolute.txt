@@ -1,0 +1,7 @@
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Projects\PNP2\CodingExercise1\CodingExercise1\bin\Debug\CodingExercise1.exe.config
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Projects\PNP2\CodingExercise1\CodingExercise1\bin\Debug\CodingExercise1.exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Projects\PNP2\CodingExercise1\CodingExercise1\bin\Debug\CodingExercise1.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Projects\PNP2\CodingExercise1\CodingExercise1\obj\Debug\CodingExercise1.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Projects\PNP2\CodingExercise1\CodingExercise1\obj\Debug\CodingExercise1.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Projects\PNP2\CodingExercise1\CodingExercise1\obj\Debug\CodingExercise1.exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Projects\PNP2\CodingExercise1\CodingExercise1\obj\Debug\CodingExercise1.pdb
